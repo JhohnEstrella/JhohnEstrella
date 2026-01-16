@@ -88,7 +88,3 @@ I enjoy working across **low-level systems**, **backend development**, and **dat
 - **Text:** `#17181d` (Charcoal Blue-Black) and `##484748` (Dark Ash Gray)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JhohnEstrella&icon=0&color=0" />
-</p>
