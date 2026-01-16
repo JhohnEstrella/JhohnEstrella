@@ -5,7 +5,7 @@
   <svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect width="120" height="120" rx="24" fill="#0F172A"/>
     <p align="center">
-      <img src="IT%20SKILLS%20%232.png" width="120" alt="IT Skills Logo">
+      <img src="IT%20SKILLS%20%232.png" width="300" alt="IT Skills Logo">
     </p>
   </svg>
 </p>
