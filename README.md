@@ -15,11 +15,11 @@
 <h1 align="center">Jhohn Bennidict Estrella</h1>
 
 <p align="center">
-  <b>Computer Science Student | Software Developer | Cloud & Systems Enthusiast</b>
+  <b>Computer Science Student | Aspiring Software Developer | Aspiring Full Stack Developer</b>
 </p>
 
 <p align="center">
-  Turning ideas into reliable, scalable, and efficient software.
+  Coding is a Marathon, not a Sprint.
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ## 👋 About Me
 
 I’m a **Computer Science student** passionate about building software that is efficient, secure, and scalable.  
-I enjoy working across **low-level systems**, **backend development**, and **cloud technologies**, and I’m always open to learning new tools and collaborating on meaningful projects.
+I enjoy working across **low-level systems**, **backend development**, and **database management**, and I’m always open to learning new tools and collaborating on meaningful projects.
 
 - 🔭 Currently working on my **Computer Science coursework & personal projects**
 - 👯 Open to **collaboration** and team-based development
@@ -78,17 +78,16 @@ I enjoy working across **low-level systems**, **backend development**, and **clo
 
 ## 📫 Contact Me
 
-- 📧 Email: **your-email@example.com**
-- 💼 LinkedIn: **https://linkedin.com/in/your-profile**
+- 📧 Email: **jboestrella@addu.edu.ph**
 - 🌐 GitHub: **https://github.com/JhohnEstrella**
 
 ---
 
 ## 🎨 Brand Colors
 
-- **Primary:** `#0F172A` (Dark Blue / Slate)
-- **Accent:** `#38BDF8` (Sky Blue)
-- **Text:** `#E5E7EB` (Light Gray)
+- **Primary:** `##7b7c7a` (Warm Gray)
+- **Accent:** `##b0afa8` (Light Stone Gray) and `#bdbab9` (Soft Silver Gray)
+- **Text:** `#17181d` (Charcoal Blue-Black) and `##484748` (Dark Ash Gray)
 
 ---
 
