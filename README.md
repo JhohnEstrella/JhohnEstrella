@@ -65,11 +65,9 @@ I enjoy working across **low-level systems**, **backend development**, and **dat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhohnEstrella&theme=dark&hide_border=false" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=JhohnEstrella&theme=dark&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhohnEstrella&theme=dark&layout=compact" />
 </p>
 
 ---
