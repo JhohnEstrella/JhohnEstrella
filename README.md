@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Computer Science Student | Aspiring Software Developer | Aspiring Full Stack Developer</b>
+  <b>Computer Science Student | Aspiring Full Stack Developer</b>
 </p>
 
 ---
