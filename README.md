@@ -10,14 +10,8 @@
   </svg>
 </p>
 
-<h1 align="center">Jhohn Bennidict Estrella</h1>
-
 <p align="center">
   <b>Computer Science Student | Aspiring Software Developer | Aspiring Full Stack Developer</b>
-</p>
-
-<p align="center">
-  Coding is a Marathon, not a Sprint.
 </p>
 
 ---
