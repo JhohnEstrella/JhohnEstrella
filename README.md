@@ -5,7 +5,7 @@
   <svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect width="120" height="120" rx="24" fill="#0F172A"/>
     <p align="center">
-      <img src="branding/logo.png" width="300" alt="branding/logo.png">
+      <img src="branding/banner.png" width="300" alt="branding/logo.png">
     </p>
   </svg>
 </p>
