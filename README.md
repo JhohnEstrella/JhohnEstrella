@@ -22,21 +22,21 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I’m a **Computer Science student** passionate about building software that is efficient, secure, and scalable.  
 I enjoy working across **low-level systems**, **backend development**, and **database management**, and I’m always open to learning new tools and collaborating on meaningful projects.
 
-- 🔭 Currently working on my **Computer Science coursework & personal projects**
-- 👯 Open to **collaboration** and team-based development
-- 🤝 Looking for help and mentorship on **programming projects**
-- 🌱 Continuously learning **multiple programming languages & cloud platforms**
-- 💬 Ask me about **programming, systems, or cloud**
-- ⚡ Fun fact: *Secrets* 😄
+- Currently working on my **Computer Science coursework & personal projects**
+- Open to **collaboration** and team-based development
+- Looking for help and mentorship on **programming projects**
+- Continuously learning **multiple programming languages & cloud platforms**
+- Ask me about **programming, systems, or cloud**
+- Fun fact: *Secrets* 😄
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -62,7 +62,7 @@ I enjoy working across **low-level systems**, **backend development**, and **dat
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <br/>
@@ -72,14 +72,14 @@ I enjoy working across **low-level systems**, **backend development**, and **dat
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- 📧 Email: **jboestrella@addu.edu.ph**
-- 🌐 GitHub: **https://github.com/JhohnEstrella**
+- Email: **jboestrella@addu.edu.ph**
+- GitHub: **https://github.com/JhohnEstrella**
 
 ---
 
-## 🎨 Brand Colors
+## Brand Colors
 
 - **Primary:** `##7b7c7a` (Warm Gray)
 - **Accent:** `##b0afa8` (Light Stone Gray) and `#bdbab9` (Soft Silver Gray)
