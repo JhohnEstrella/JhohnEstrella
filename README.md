@@ -10,10 +10,6 @@
   </svg>
 </p>
 
-<h1 align="center">
-  <b>Computer Science Student | Aspiring Full Stack Developer</b>
-</h1>
-
 ---
 
 ## About Me
