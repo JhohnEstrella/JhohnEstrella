@@ -10,9 +10,9 @@
   </svg>
 </p>
 
-<p align="center">
+<h1 align="center">
   <b>Computer Science Student | Aspiring Full Stack Developer</b>
-</p>
+</h1>
 
 ---
 
