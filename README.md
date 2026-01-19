@@ -68,11 +68,3 @@ I enjoy working across **low-level systems**, **backend development**, and **dat
 - GitHub: **https://github.com/JhohnEstrella**
 
 ---
-
-## Brand Colors
-
-- **Primary:** `##7b7c7a` (Warm Gray)
-- **Accent:** `##b0afa8` (Light Stone Gray) and `#bdbab9` (Soft Silver Gray)
-- **Text:** `#17181d` (Charcoal Blue-Black) and `##484748` (Dark Ash Gray)
-
----
