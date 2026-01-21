@@ -1,14 +1,4 @@
-<!-- ===================== -->
-<!--  PERSONAL LOGO (SVG)  -->
-<!-- ===================== -->
-<p align="center">
-  <svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="120" height="120" rx="24" fill="#0F172A"/>
-    <p align="center">
-      <img src="branding/banner.png" width="1000" alt="branding/logo.png">
-    </p>
-  </svg>
-</p>
+![Profile Banner](https://github.com/JhohnEstrella/Elective-Repository/blob/main/Laboratory%202/branding/banner.png)
 
 ---
 
